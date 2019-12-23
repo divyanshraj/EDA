@@ -1,2 +1,2 @@
-#Miscellaneous
+#EDA
 Miscellaneous scripts
