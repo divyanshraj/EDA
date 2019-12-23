@@ -1,2 +1,0 @@
-#EDA
-Miscellaneous scripts
